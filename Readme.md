@@ -1,4 +1,4 @@
-Absolutely, let's dive into learning Python. We're going to create a basic text-based RPG adventure as we learn Python concepts.
+# Python Basics Tutorial
 
 ## Part 1: Variables and Data Types
 
